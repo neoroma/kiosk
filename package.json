@@ -1,0 +1,19 @@
+{
+  "name": "kiosk",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev -p 2022",
+    "build": "next build",
+    "start": "next start",
+    "export": "next export"
+  },
+  "dependencies": {
+    "antd": "^4.1.5",
+    "axios": "^0.19.2",
+    "next": "^9.3.5",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
